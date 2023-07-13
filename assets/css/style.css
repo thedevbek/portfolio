@@ -66,7 +66,9 @@ img {
     color: var(--color-body);
 }
 
-
+ul {
+    list-style-type: none;
+}
 .shadow-effect {
     transition: all 0.5s;
 }
@@ -135,6 +137,7 @@ img {
 .btn {
     padding: 12px 28px;
     font-weight: 600;
+    margin-left:  2rem;
 }
 
 .btn-brand {
